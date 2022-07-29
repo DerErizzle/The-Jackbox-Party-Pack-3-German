@@ -11046,6 +11046,11 @@
                     "easy": false
                 },
                 {
+                    "correct": true,
+                    "text": "Eiersalat",
+                    "easy": false
+                },
+                {
                     "correct": false,
                     "text": "Waldorfsalat",
                     "easy": false
